@@ -20,10 +20,21 @@
 ### 🚀 Featured Projects
 
 🔹 [**Nobel Prize Analysis**](https://github.com/NOUR-wq277/NOBEL-PRIZE-ANALYSIS)  
-🔍 *Analyzing Nobel Prize data using Python (EDA, Visuals, Insights).*
+*Analyzing Nobel Prize data using Python (EDA, Visuals, Insights).*
 
 🔹 [**Citizen Data EDA**](https://github.com/NOUR-wq277/Citizen-Data-Analysis-EDA-)  
-🌍 *Exploratory analysis of citizen demographics and living conditions.*
+*Exploratory analysis of citizen demographics and living conditions.*
+
+🔹 [**AI Job Market & Salary Trends 2025**](https://www.kaggle.com/code/nourahmed1/eda-global-ai-job-market-salary-trends-2025)  
+*Exploratory analysis of global AI job trends, skills demand, and salary distributions.*
+
+🔹 [**Player Lifetime Statistics**](https://www.kaggle.com/code/nourahmed1/eda-player-lifetime-statistics)  
+*EDA on players' lifetime performance and statistics across different categories.*
+
+🔹 [**Intelligent Career Advisor & Job Analysis**](https://www.kaggle.com/code/nourahmed1/eda-intelligent-career-advisor-and-job-analysis)  
+*Insights into job descriptions, skill requirements, and personalized career advising.*
+
+
 
 ---
 
