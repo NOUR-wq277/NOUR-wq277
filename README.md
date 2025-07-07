@@ -18,6 +18,8 @@
 ---
 
 ### 🚀 Featured Projects
+🔹 [**Customer shoping  Analysis**](https://www.kaggle.com/code/nourahmed1/eda-customer-shopping)  
+*Analyzing Customer shoping data using Python (EDA, Visuals, Insights,hypothesis testing).*
 
 🔹 [**Nobel Prize Analysis**](https://github.com/NOUR-wq277/NOBEL-PRIZE-ANALYSIS)  
 *Analyzing Nobel Prize data using Python (EDA, Visuals, Insights).*
