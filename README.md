@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey there! 👋 I'm Nour</h1>
-<h3 align="center">📊 Data Analyst | 📈 EDA & Visualization | 🧠 Lifelong Learner</h3>
+<h3 align="center">📊 Data scientist | 📈 EDA & Visualization | 🧠 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Exploring+Patterns+in+Numbers!" />
