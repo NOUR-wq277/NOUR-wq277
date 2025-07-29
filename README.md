@@ -29,8 +29,10 @@
 
 🔹 [**Citizen Data EDA**](https://github.com/NOUR-wq277/Citizen-Data-Analysis-EDA-)  
 *Exploratory analysis of citizen demographics and living conditions.*
+
 🔹 [**AI Job Market & Salary Trends 2025**](https://github.com/NOUR-wq277/Global-AI-Job-Market-Salary/blob/main/README.md)  
 *Exploratory analysis of global AI job trends DashBoard*
+
 🔹 [**AI Job Market & Salary Trends 2025**](https://www.kaggle.com/code/nourahmed1/eda-global-ai-job-market-salary-trends-2025)  
 *Exploratory analysis of global AI job trends, skills demand, and salary distributions.*
 
