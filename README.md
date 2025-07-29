@@ -18,6 +18,9 @@
 ---
 
 ### 🚀 Featured Projects
+🔹 [**LoanLens: EDA-Driven Approval Prediction**](https://www.kaggle.com/code/nourahmed1/loanlens-eda-driven-approval-prediction)  
+*Predicting loan approval using ML with 93% accuracy (XGBoost).*
+ 
 🔹 [**Customer shoping  Analysis**](https://www.kaggle.com/code/nourahmed1/eda-customer-shopping)  
 *Analyzing Customer shoping data using Python (EDA, Visuals, Insights,hypothesis testing).*
 
