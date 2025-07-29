@@ -33,6 +33,9 @@
 🔹 [**AI Job Market & Salary Trends 2025**](https://github.com/NOUR-wq277/Global-AI-Job-Market-Salary/blob/main/README.md)  
 *Exploratory analysis of global AI job trends DashBoard*
 
+🔹 [** SUPERSTORE ANALYSIS Dashboard**](https://www.linkedin.com/posts/nour-ahmed-13677531b_powerbi-dataanalytics-businessintelligence-activity-7345795797344501760-_VAS?utm_source=share&utm_medium=member_android&rcm=ACoAAFEX3XoBWQHKhOetMU1Uv1rhZEZF29AvvnM)  
+*Exploratory analysis of SuperStore around the word*
+
 🔹 [**AI Job Market & Salary Trends 2025**](https://www.kaggle.com/code/nourahmed1/eda-global-ai-job-market-salary-trends-2025)  
 *Exploratory analysis of global AI job trends, skills demand, and salary distributions.*
 
